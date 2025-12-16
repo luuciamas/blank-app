@@ -915,4 +915,3 @@ with st.expander("## SOURCES"):
 
         """
         )
-    
